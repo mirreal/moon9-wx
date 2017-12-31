@@ -1,0 +1,24 @@
+{
+  "name": "moon9-wx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirreal/moon9-wx.git"
+  },
+  "author": "mirreal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirreal/moon9-wx/issues"
+  },
+  "homepage": "https://github.com/mirreal/moon9-wx#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "http-server": "^0.10.0"
+  }
+}
