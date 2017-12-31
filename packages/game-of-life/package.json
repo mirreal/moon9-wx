@@ -1,0 +1,11 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "game of life",
+  "main": "game.js",
+  "scripts": {
+    "demo": "http-server -p 9999"
+  },
+  "author": "mirreal",
+  "license": "MIT"
+}
